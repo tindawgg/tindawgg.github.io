@@ -1,0 +1,108 @@
+body {
+    font-family: 'Montserrat-Regular-400', sans-serif;
+  }
+
+#title {
+    background-color: #ff4c68;
+    max-height: 58rem;
+}
+
+/* Greeting text container */
+
+.row {
+    margin-top: 4.5rem;
+}
+
+.greeting-text {
+    font-family: 'Montserrat-Regular-400', sans-serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: white;
+    line-height: 1.5;
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+
+/* Navigation Bar */
+
+.navbar {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.nav-item {
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 1.2rem;
+}
+
+/* Download Buttons */
+
+.download-button {
+    margin-left: 0%;
+    margin-right: 3%;
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+/* Title Image */
+
+.landing-doggy-image {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+
+/* TinDog product features section */
+
+h3 {
+    font-family: 'Montserrat-Regular-400', sans-serif;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+#features {
+    padding: 7% 15;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+/* .tindog-product-attributes{
+    margin-left: 25%;
+    margin-right: 0%;
+    margin-top: 5%;
+    margin-bottom: 0;
+    padding: 10px;
+}
+
+.col{
+    text-align:center;
+} */
